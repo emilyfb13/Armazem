@@ -1,0 +1,63 @@
+html,body{
+    height: 100%;
+}
+h1{
+    color: #2A542D;
+}
+.logo{
+    border-bottom: 2px solid #B3B3B3; 
+    background-color: #658F69;
+}
+#logo{
+    padding-top: 10%; 
+    padding-bottom: 10%;  
+    max-width: 100%; 
+    max-height: 100%;
+}
+.cinza{
+    background-color: #B3B3B3
+}
+#person{
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top: 10%;  
+    max-width: 30%; 
+    max-height: 30%;
+}
+#abranco{
+    text-align: center; 
+    color:white;
+}
+.nav-link, .nav-link:active, .nav-link:hover{
+    color: black;
+}
+.navbar-toggler, .navbar-dark, .navbar-toggler:focus{
+    border: none;
+    box-shadow: none;
+}
+.sanduiche{
+    margin-top: 30%;
+}
+.menus{
+    font-size: small;
+    font-weight: bold
+}
+footer{
+    background-color: #B3B3B3;
+    font-size: small;
+    color: gray;
+    text-align: center;
+}
+
+/*GERAIS*/
+.botao, .botao:hover{
+    background-color: #658F69;
+    border: none;
+    border-radius: 0;
+    margin-top: 10px;
+    color: white;
+}
+
+#sair{
+    background-color: #2A542D;
+}
